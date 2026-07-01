@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 220" role="img" aria-labelledby="title">
+  <title id="title">Рестобар 1095</title>
+  <rect width="520" height="220" rx="22" fill="#120f0c"/>
+  <path d="M36 36h448v148H36z" fill="none" stroke="#d4b16f" stroke-width="2"/>
+  <text x="260" y="122" text-anchor="middle" font-family="Georgia, serif" font-size="78" font-weight="700" fill="#f7efe3">1095</text>
+  <text x="260" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" letter-spacing="5" fill="#b9854d">РЕСТОБАР</text>
+</svg>

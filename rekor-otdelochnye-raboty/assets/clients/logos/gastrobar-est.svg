@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 220" role="img" aria-labelledby="title">
+  <title id="title">Гастробар ЕСТЬ</title>
+  <rect width="520" height="220" rx="22" fill="#f0e7d8"/>
+  <circle cx="110" cy="110" r="62" fill="none" stroke="#b9854d" stroke-width="3"/>
+  <text x="286" y="124" text-anchor="middle" font-family="Arial, sans-serif" font-size="72" font-weight="800" fill="#171614">ЕСТЬ</text>
+  <text x="286" y="162" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" letter-spacing="5" fill="#8c6337">ГАСТРОБАР</text>
+</svg>

@@ -1,0 +1,122 @@
+{
+  "basePath": "/rekor-pages/",
+  "sites": [
+    {
+      "slug": "rekor-otdelochnye-raboty",
+      "title": "РЕКОР Отделочные работы",
+      "description": "Отделочные работы в авторском стиле команды.",
+      "url": "/rekor-pages/rekor-otdelochnye-raboty/",
+      "type": "vite",
+      "role": "development"
+    },
+    {
+      "slug": "rekor-metallokonstruktsii-demontazh",
+      "title": "РЕКОР Металлоконструкции и демонтаж",
+      "description": "Металлоконструкции и демонтаж по брендбуку заказчика.",
+      "url": "/rekor-pages/rekor-metallokonstruktsii-demontazh/",
+      "type": "vite",
+      "role": "development"
+    },
+    {
+      "slug": "rekor-mehanizirovannaya-shtukaturka",
+      "title": "РЕКОР Механизированная штукатурка",
+      "description": "Экспериментальный лендинг по третьей теме: анимации, необычный курсор, интерактив и мини-идеи.",
+      "url": "/rekor-pages/rekor-mehanizirovannaya-shtukaturka/",
+      "type": "vite",
+      "role": "development"
+    }
+  ],
+  "references": [
+    {
+      "title": "wb62.ru",
+      "description": "Прямой конкурент. Их сайт нужно превзойти по визуалу, структуре, убедительности подачи услуг, динамике и ясности пути к заявке.",
+      "url": "https://wb62.ru/",
+      "role": "reference",
+      "type": "external"
+    },
+    {
+      "title": "rekorbuild.ru",
+      "description": "Старый сайт компании РЕКОР. Используем как источник фактуры, направлений работ, формулировок, фото и понимания текущей коммуникации.",
+      "url": "https://rekorbuild.ru/",
+      "role": "reference",
+      "type": "external"
+    },
+    {
+      "title": "pro-top.tilda.ws",
+      "description": "Стиль, выдержка, спокойная, но эффектная подача. Интересен переход от логотипа к визуалу деятельности, подчеркивания на кнопках и крупная фотография команды.",
+      "url": "https://pro-top.tilda.ws/",
+      "role": "reference",
+      "type": "external"
+    },
+    {
+      "title": "kmkperm.ru",
+      "description": "Спокойный рабочий сайт. Можно смотреть как пример цельной Tilda-стилистики.",
+      "url": "https://kmkperm.ru/",
+      "role": "reference",
+      "type": "external"
+    },
+    {
+      "title": "mafarchitec.ru",
+      "description": "Сильный визуальный референс: курсор, видео, сочетание графики и фотографий, подача этапов строительства.",
+      "url": "https://mafarchitec.ru/",
+      "role": "reference",
+      "type": "external"
+    },
+    {
+      "title": "etalonmechty.ru",
+      "description": "Интересен видеоряд на фоне.",
+      "url": "https://etalonmechty.ru/",
+      "role": "reference",
+      "type": "external"
+    },
+    {
+      "title": "modulhouse.org",
+      "description": "Видео-вставки удерживают внимание и помогают досмотреть страницу до конца.",
+      "url": "https://modulhouse.org/",
+      "role": "reference",
+      "type": "external"
+    },
+    {
+      "title": "korolartur.tilda.ws",
+      "description": "Интересная подача одной большой картинкой: ощущение разворачивающегося рулона.",
+      "url": "https://korolartur.tilda.ws/",
+      "role": "reference",
+      "type": "external"
+    },
+    {
+      "title": "гк-нова.рф",
+      "description": "Слабый ориентир простого строительного сайта; не приоритетный референс.",
+      "url": "https://гк-нова.рф/",
+      "role": "reference",
+      "type": "external"
+    },
+    {
+      "title": "honka.ru",
+      "description": "Теплая, уютная подача, коротко и по делу. Хороший ориентир для направления домов.",
+      "url": "https://honka.ru/",
+      "role": "reference",
+      "type": "external"
+    },
+    {
+      "title": "buildings-steel.ru",
+      "description": "Простая рабочая страница для металлоконструкций.",
+      "url": "https://buildings-steel.ru/",
+      "role": "reference",
+      "type": "external"
+    },
+    {
+      "title": "tesla.com",
+      "description": "Пример простой структуры даже у крупного бренда.",
+      "url": "https://www.tesla.com/",
+      "role": "reference",
+      "type": "external"
+    },
+    {
+      "title": "luna.su",
+      "description": "Интересны интерактивные эффекты: движение, смена состояний, курсор, загрузочные переходы.",
+      "url": "https://luna.su/",
+      "role": "reference",
+      "type": "external"
+    }
+  ]
+}
