@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-label="Схема металлического каркаса склада">
+  <rect width="900" height="620" fill="#202020"/>
+  <path d="M110 470V190l290-90 390 115v255M110 190l390 115 290-90M400 100l390 115M255 515V235M430 515V285M610 515V255M790 470l-390 45-290-45" fill="none" stroke="#F5F2EA" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M110 330l290 70 390-75M110 190l145 45 145-135 105 185 105-140 180 70" fill="none" stroke="#AE4137" stroke-width="8"/>
+  <g fill="#AE4137"><circle cx="110" cy="190" r="10"/><circle cx="400" cy="100" r="10"/><circle cx="790" cy="215" r="10"/><circle cx="400" cy="515" r="10"/></g>
+</svg>

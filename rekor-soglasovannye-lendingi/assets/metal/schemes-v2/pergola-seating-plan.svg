@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420">
+  <rect width="640" height="420" fill="#111416"/>
+  <g fill="none" stroke-linejoin="round">
+    <rect x="92" y="70" width="456" height="282" stroke="#e8e5de" stroke-width="4"/>
+    <path d="M120 98h48v198h286v42H120z" stroke="#c64b40" stroke-width="4"/>
+    <g stroke="#757d82" stroke-width="2"><path d="M132 128h24m-24 36h24m-24 36h24m-24 36h24m-24 36h24M208 308v18m54-18v18m54-18v18m54-18v18m54-18v18"/></g>
+    <circle cx="340" cy="206" r="58" stroke="#e8e5de" stroke-width="3"/>
+    <circle cx="340" cy="206" r="27" stroke="#c64b40" stroke-width="3"/>
+    <path d="M340 158v96m-48-48h96" stroke="#7a8287" stroke-width="1.5" stroke-dasharray="7 6"/>
+  </g>
+  <g fill="#aab0b4" font-family="Arial" font-size="14"><text x="304" y="211">ОЧАГ</text><text x="28" y="32" fill="#e8e5de" font-weight="700">ПЛАН ЗОНЫ ОТДЫХА</text><text x="536" y="400">МК-23</text><text x="184" y="382">ПОСАДОЧНЫЕ МЕСТА · БЕЗОПАСНАЯ ЗОНА</text></g>
+</svg>

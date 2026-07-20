@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-label="[Здесь нужно фото ровной стены после штукатурки]">
+  <rect width="900" height="620" fill="#101010"/>
+  <rect x="130" y="80" width="640" height="410" fill="#e7e2d6"/>
+  <path d="M130 80h640v410H130z" fill="none" stroke="#d6a05a" stroke-width="10"/>
+  <path d="M210 150h480M210 245h480M210 340h480" stroke="#c7c0b2" stroke-width="6"/>
+  <text x="450" y="552" text-anchor="middle" fill="#f4ead8" font-family="Arial, sans-serif" font-size="34" font-weight="700">[Здесь нужно фото ровной стены после штукатурки]</text>
+</svg>
