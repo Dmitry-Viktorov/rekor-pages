@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420">
+  <rect width="640" height="420" fill="#111416"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <g stroke="#e8e5de" stroke-width="4"><path d="M76 314h494M88 314V112h470v202M182 112v202M276 112v202M370 112v202M464 112v202"/><path d="M88 112h470"/></g>
+    <g stroke="#c64b40" stroke-width="4"><path d="M88 112l94 202m0-202L88 314M370 112l94 202m0-202-94 202"/></g>
+    <g stroke="#798187" stroke-width="1.5"><path d="M88 336v24M558 336v24M88 348h470M88 343l-8 10m478-10 8 10"/></g>
+    <g fill="#111416" stroke="#c64b40" stroke-width="2"><circle cx="135" cy="213" r="9"/><circle cx="417" cy="213" r="9"/></g>
+  </g>
+  <g fill="#aab0b4" font-family="Arial" font-size="14"><text x="286" y="376">5 × 6 000</text><text x="28" y="32" fill="#e8e5de" font-weight="700">ПРОДОЛЬНЫЕ СВЯЗИ · ФАСАД</text><text x="536" y="400">МК-03</text></g>
+</svg>
