@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 120" role="img" aria-label="Знак коммерческих металлоконструкций">
+  <rect width="320" height="120" rx="12" fill="#202020"/>
+  <path d="M42 88V45l58-20 58 20v43M58 88V57h84v31M192 88V42h86v46M212 42v46M244 42v46" fill="none" stroke="#F5F2EA" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M42 45l58 20 58-20M192 42h86" fill="none" stroke="#AE4137" stroke-width="7"/>
+</svg>

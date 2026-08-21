@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420">
+  <rect width="640" height="420" fill="#111416"/>
+  <g fill="none" stroke-linejoin="round">
+    <path d="M230 338V112h72v226M164 338h204v30H164z" stroke="#e8e5de" stroke-width="5"/>
+    <path d="M198 338l32-44m72 44 34-44M190 294h146" stroke="#c64b40" stroke-width="4"/>
+    <g fill="#111416" stroke="#e8e5de" stroke-width="2"><circle cx="198" cy="352" r="7"/><circle cx="334" cy="352" r="7"/></g>
+    <g stroke="#7d858a" stroke-width="1.5"><path d="M302 112l92-58h128M336 294l78-34h108M368 368l58 24h96"/></g>
+    <path d="M150 368h232" stroke="#727a80" stroke-width="2" stroke-dasharray="8 7"/>
+  </g>
+  <g fill="#aab0b4" font-family="Arial" font-size="14"><text x="404" y="50">ТРУБА 200 × 200</text><text x="424" y="256">РЕБРО 10 мм</text><text x="438" y="398">ПЛИТА 20 мм</text><text x="28" y="32" fill="#e8e5de" font-weight="700">ОПОРНЫЙ УЗЕЛ НАВЕСА</text><text x="536" y="400">МК-14</text></g>
+</svg>
