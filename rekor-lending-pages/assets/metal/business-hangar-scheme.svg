@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-label="Схема металлического ангара">
+  <rect width="900" height="620" fill="#202020"/>
+  <path d="M105 480V285L450 105l345 180v195M105 285h690M160 480V315l290-150 290 150v165M275 480V340l175-90 175 90v140M105 480h690" fill="none" stroke="#F5F2EA" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M105 285l115 60 115-120 115 120 115-120 115 120 115-60M220 345v135M450 105v375M680 345v135" fill="none" stroke="#AE4137" stroke-width="8"/>
+</svg>

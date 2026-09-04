@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420">
+  <rect width="640" height="420" fill="#111416"/>
+  <g fill="none" stroke-linejoin="round">
+    <g stroke="#e8e5de" stroke-width="5"><path d="M112 330V142l128-62 278 74v176M240 80v250M112 142l278 74 128-62M240 80l278 74M112 330h406"/></g>
+    <g stroke="#c64b40" stroke-width="3"><path d="M142 128l278 74M172 114l278 74M202 99l278 74M232 85l278 74"/><path d="M112 260h406"/></g>
+    <g stroke="#767e83" stroke-width="2"><path d="M112 330l128-62 278 62M240 268l278-62"/></g>
+  </g>
+  <g fill="#aab0b4" font-family="Arial" font-size="14"><text x="28" y="32" fill="#e8e5de" font-weight="700">ПЕРГОЛА · ОБЩИЙ ВИД КАРКАСА</text><text x="536" y="400">МК-21</text><text x="280" y="356">6 000 × 4 000</text></g>
+</svg>

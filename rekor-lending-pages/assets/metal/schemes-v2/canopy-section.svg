@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420">
+  <rect width="640" height="420" fill="#111416"/>
+  <g fill="none" stroke-linejoin="round">
+    <path d="M116 322V158l402-78v242M72 322h500" stroke="#e8e5de" stroke-width="5"/>
+    <path d="M116 158l402-78M116 184l402-78" stroke="#c64b40" stroke-width="4"/>
+    <path d="M116 158l82 10 80-42 80 11 80-42 80 11" stroke="#7b8388" stroke-width="2"/>
+    <path d="M518 80v54l24 18" stroke="#c64b40" stroke-width="3"/>
+    <g stroke="#7d858a" stroke-width="1.5"><path d="M116 342v22M518 342v22M116 352h402"/><path d="M96 322H70M96 80H70M82 322V80"/></g>
+  </g>
+  <g fill="#aab0b4" font-family="Arial" font-size="14"><text x="294" y="380">12 000</text><text x="56" y="222" transform="rotate(-90 56 222)">4 500</text><text x="28" y="32" fill="#e8e5de" font-weight="700">НАВЕС · ПОПЕРЕЧНЫЙ РАЗРЕЗ</text><text x="536" y="400">МК-12</text></g>
+</svg>
