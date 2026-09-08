@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-label="[Здесь нужны фото объекта до и после демонтажа]">
+  <rect width="900" height="620" fill="#111"/>
+  <rect x="80" y="90" width="340" height="390" fill="#252525" stroke="#f4ead8" stroke-width="8"/>
+  <rect x="480" y="90" width="340" height="390" fill="#252525" stroke="#d6a05a" stroke-width="8"/>
+  <path d="M150 410V230l100-70 100 70v180" fill="none" stroke="#f4ead8" stroke-width="12"/>
+  <path d="M550 420h200M560 375h170M585 330h120" stroke="#d6a05a" stroke-width="14" stroke-linecap="round"/>
+  <text x="250" y="520" text-anchor="middle" fill="#f4ead8" font-family="Arial, sans-serif" font-size="28" font-weight="700">до</text>
+  <text x="650" y="520" text-anchor="middle" fill="#f4ead8" font-family="Arial, sans-serif" font-size="28" font-weight="700">после</text>
+  <text x="450" y="575" text-anchor="middle" fill="#f4ead8" font-family="Arial, sans-serif" font-size="32" font-weight="700">[Здесь нужны фото объекта до и после демонтажа]</text>
+</svg>

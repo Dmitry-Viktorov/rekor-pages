@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420">
+  <rect width="640" height="420" fill="#111416"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <g stroke="#e8e5de" stroke-width="4">
+      <path d="M98 310V154l112-64 112 64v156M210 90v220M322 154l118-54 104 62v148M440 100v210M98 154l112 58 112-58M322 154l118 60 104-52"/>
+      <path d="M98 310h446M98 238h446" stroke="#6d7479" stroke-width="2"/>
+    </g>
+    <g stroke="#c64b40" stroke-width="3"><path d="M98 154l112 58-112 26 112 72M322 154l118 60-118 24 118 72M440 214l104-52-104 76 104 72"/></g>
+    <g stroke="#7e878d" stroke-width="1.5"><path d="M82 332v28M558 332v28M98 346h446M98 341l-10 10m456-10 10 10"/><path d="M70 310H42M70 90H42M55 310V90m-5 0 10 10m-10 210 10-10"/></g>
+  </g>
+  <g fill="#aab0b4" font-family="Arial" font-size="14"><text x="292" y="374">24 000</text><text x="20" y="208" transform="rotate(-90 20 208)">6 800</text><text x="28" y="32" fill="#e8e5de" font-weight="700">КАРКАС СКЛАДА · ОБЩИЙ ВИД</text><text x="536" y="400">МК-01</text></g>
+</svg>

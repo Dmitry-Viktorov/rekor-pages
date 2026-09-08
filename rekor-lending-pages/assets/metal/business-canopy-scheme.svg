@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-label="Схема металлического навеса">
+  <rect width="900" height="620" fill="#202020"/>
+  <path d="M125 485V220l615-85M300 485V195M475 485V170M650 485V145M95 220l645-85 70 55-645 90-70-60ZM125 485h610" fill="none" stroke="#F5F2EA" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M125 220l175-25 175-25 175-25M165 280l135-85 175 60 175-110 85 75" fill="none" stroke="#AE4137" stroke-width="8"/>
+  <path d="M95 220h715" stroke="#AE4137" stroke-width="6" stroke-dasharray="18 14"/>
+</svg>

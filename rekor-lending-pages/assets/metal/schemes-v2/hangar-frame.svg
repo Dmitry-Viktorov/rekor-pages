@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420">
+  <rect width="640" height="420" fill="#111416"/>
+  <g fill="none" stroke-linejoin="round">
+    <path d="M86 318V196L320 76l234 120v122M86 318h468" stroke="#e8e5de" stroke-width="5"/>
+    <path d="M86 196l234 82 234-82M320 76v202" stroke="#c64b40" stroke-width="4"/>
+    <path d="M86 196l58 20 59-50 58 91 59-181 58 181 59-91 58 50 59-20" stroke="#c64b40" stroke-width="3"/>
+    <g stroke="#7d858a" stroke-width="1.5"><path d="M86 340v22M554 340v22M86 350h468M86 345l-9 10m477-10 9 10"/><path d="M66 318H42M66 76H42M54 318V76"/></g>
+  </g>
+  <g fill="#aab0b4" font-family="Arial" font-size="14"><text x="292" y="378">18 000</text><text x="28" y="224" transform="rotate(-90 28 224)">7 200</text><text x="28" y="32" fill="#e8e5de" font-weight="700">ПОПЕРЕЧНАЯ РАМА АНГАРА</text><text x="536" y="400">МК-11</text></g>
+</svg>

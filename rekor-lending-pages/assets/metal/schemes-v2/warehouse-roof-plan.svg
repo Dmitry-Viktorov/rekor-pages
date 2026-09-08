@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420">
+  <rect width="640" height="420" fill="#111416"/>
+  <g fill="none" stroke-linecap="round">
+    <rect x="84" y="78" width="472" height="252" stroke="#e8e5de" stroke-width="4"/>
+    <g stroke="#727a80" stroke-width="2"><path d="M151 78v252M219 78v252M286 78v252M354 78v252M421 78v252M489 78v252M84 204h472"/><path d="M84 64v-18M556 64v-18M84 54h472M70 78H48M70 330H48M58 78v252"/></g>
+    <g stroke="#c64b40" stroke-width="3"><path d="M84 78l67 126-67 126M219 78l67 126-67 126M354 78l67 126-67 126M489 78l67 126-67 126"/><path d="M84 204h472" stroke-dasharray="12 10"/></g>
+    <g fill="#c64b40" stroke="none"><circle cx="84" cy="78" r="5"/><circle cx="556" cy="78" r="5"/><circle cx="84" cy="330" r="5"/><circle cx="556" cy="330" r="5"/></g>
+  </g>
+  <g fill="#aab0b4" font-family="Arial" font-size="14"><text x="286" y="42">48 000</text><text x="28" y="225" transform="rotate(-90 28 225)">24 000</text><text x="28" y="32" fill="#e8e5de" font-weight="700">ПЛАН КРОВЛИ · СВЯЗИ</text><text x="536" y="400">МК-02</text></g>
+</svg>

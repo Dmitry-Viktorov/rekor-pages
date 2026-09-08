@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-label="Схема металлической перголы">
+  <rect width="900" height="620" fill="#202020"/>
+  <path d="M150 500V180l510-65 95 75v310M150 180l95 75 510-65M245 255v245M660 115v315M150 500h605" fill="none" stroke="#F5F2EA" stroke-width="11" stroke-linejoin="round"/>
+  <path d="M215 172l95 75M300 160l95 75M385 150l95 75M470 140l95 75M555 128l95 75M640 118l95 75" stroke="#AE4137" stroke-width="8"/>
+  <path d="M205 430h190v45H205zM510 430h190v45H510z" fill="none" stroke="#AE4137" stroke-width="8"/>
+</svg>

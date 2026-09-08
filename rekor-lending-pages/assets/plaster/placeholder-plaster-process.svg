@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-label="[Здесь нужно фото механизированного нанесения штукатурки]">
+  <rect width="900" height="620" fill="#121212"/>
+  <rect x="120" y="95" width="660" height="390" fill="#242424" stroke="#f4ead8" stroke-width="10"/>
+  <path d="M165 420c110-92 210-48 320-140 92-77 165-72 250-125" fill="none" stroke="#d6a05a" stroke-width="38" stroke-linecap="round"/>
+  <path d="M160 190h560M160 295h560M160 400h560" stroke="#3a3a3a" stroke-width="6"/>
+  <text x="450" y="552" text-anchor="middle" fill="#f4ead8" font-family="Arial, sans-serif" font-size="32" font-weight="700">[Здесь нужно фото механизированного нанесения штукатурки]</text>
+</svg>

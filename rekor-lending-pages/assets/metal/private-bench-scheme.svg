@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-label="Схема лавочки из металла и дерева">
+  <rect width="900" height="620" fill="#202020"/>
+  <path d="M165 420h570v70H165zM205 260h490v125H205zM215 490v55M685 490v55M235 385l-30 35M665 385l30 35" fill="none" stroke="#F5F2EA" stroke-width="11" stroke-linejoin="round"/>
+  <path d="M205 300h490M205 340h490M215 445h520M300 420v70M450 420v70M600 420v70" fill="none" stroke="#AE4137" stroke-width="8"/>
+  <circle cx="215" cy="490" r="10" fill="#AE4137"/><circle cx="685" cy="490" r="10" fill="#AE4137"/>
+</svg>

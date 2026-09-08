@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-label="Схема металлической лаундж-зоны с очагом">
+  <rect width="900" height="620" fill="#202020"/>
+  <path d="M135 470V175h630v295M135 175h630M205 420h210v55H205zM485 420h210v55H485z" fill="none" stroke="#F5F2EA" stroke-width="11" stroke-linejoin="round"/>
+  <path d="M185 175v-45M275 175v-45M365 175v-45M455 175v-45M545 175v-45M635 175v-45M725 175v-45M205 445h210M485 445h210" stroke="#AE4137" stroke-width="8"/>
+  <path d="M380 505q70 55 140 0l-22-75h-96l-22 75Z" fill="none" stroke="#AE4137" stroke-width="9"/>
+  <path d="M425 430q25-55 50 0M440 430q10-35 20 0" fill="none" stroke="#F5F2EA" stroke-width="7"/>
+</svg>

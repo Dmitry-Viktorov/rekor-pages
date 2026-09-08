@@ -1,0 +1,1 @@
+import{j as a,p as e,i as t}from"./renderPage-DShfizgU.js";import{L as o}from"./LegalDocumentPage-Bk2oM9q1.js";function r(){return a.jsx(o,{data:e})}document.title="Политика обработки персональных данных — РЕКОР";t(a.jsx(r,{}));
