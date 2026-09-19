@@ -1,0 +1,1 @@
+import{j as a,d as e,i as t}from"./renderPage-C2H4Ano-.js";import{L as n}from"./LegalDocumentPage-dvMJHe_C.js";function o(){return a.jsx(n,{data:e})}document.title="Согласие на обработку персональных данных — РЕКОР";t(a.jsx(o,{}));

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420">
+  <rect width="640" height="420" fill="#111416"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <g stroke="#e8e5de" stroke-width="3">
+      <path d="M52 294h536M64 294V146h512v148M148 146v148M232 146v148M316 146v148M400 146v148M484 146v148"/>
+      <path d="M64 146h512M64 146l84 60 84-60 84 60 84-60 84 60 84-60"/>
+      <path d="M64 222h512" stroke="#737b80" stroke-width="2"/>
+    </g>
+    <g stroke="#AE4137" stroke-width="3">
+      <path d="M64 146l84 148m0-148-84 148M232 146l84 148m0-148-84 148M400 146l84 148m0-148-84 148M484 146l92 148"/>
+      <path d="M64 222h512" stroke-dasharray="10 9"/>
+      <path d="M64 118v-30M148 118v-30M232 118v-30M316 118v-30M400 118v-30M484 118v-30M576 118v-30M64 102h512"/>
+    </g>
+    <g stroke="#7e878d" stroke-width="1.5">
+      <path d="M64 314v26M576 314v26M64 328h512M64 323l-8 9m520-9 8 9"/>
+      <path d="M46 294H22M46 146H22M34 294V146m-5 0 10 10m-10 148 10-10"/>
+      <path d="M106 258h34M190 190h34M358 190h34M442 258h34"/>
+    </g>
+    <g fill="#111416" stroke="#AE4137" stroke-width="2"><circle cx="104" cy="222" r="9"/><circle cx="272" cy="222" r="9"/><circle cx="440" cy="222" r="9"/><circle cx="532" cy="222" r="9"/></g>
+  </g>
+  <g fill="#aab0b4" font-family="Arial, sans-serif" font-size="12">
+    <text x="94" y="226" fill="#e8e5de">К-1</text><text x="262" y="226" fill="#e8e5de">Р-1</text><text x="430" y="226" fill="#e8e5de">С-1</text><text x="522" y="226" fill="#e8e5de">П-1</text>
+    <text x="236" y="366">ПОЛОЖЕНИЕ ЭЛЕМЕНТОВ ПО ОСЯМ</text><text x="16" y="220" transform="rotate(-90 16 220)">8 400</text>
+    <text x="28" y="32" fill="#e8e5de" font-weight="700">МОНТАЖНЫЙ ФАСАД · ВЫВЕРКА КАРКАСА</text><text x="536" y="402">МН-03</text>
+    <text x="58" y="382">1</text><text x="142" y="382">2</text><text x="226" y="382">3</text><text x="310" y="382">4</text><text x="394" y="382">5</text><text x="478" y="382">6</text><text x="570" y="382">7</text>
+  </g>
+</svg>

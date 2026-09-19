@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420">
+  <rect width="640" height="420" fill="#111416"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <g stroke="#e8e5de" stroke-width="4">
+      <path d="M72 304h496M84 304V132h472v172M172 132v172M260 132v172M348 132v172M436 132v172M524 132v172"/>
+      <path d="M84 132h472"/>
+    </g>
+    <g stroke="#AE4137" stroke-width="3">
+      <path d="M84 132l88 172m0-172L84 304M260 132l88 172m0-172-88 172M436 132l88 172m0-172-88 172"/>
+      <path d="M84 218h472" stroke-dasharray="10 9"/>
+      <path d="M172 132h88m88 0h88" stroke-width="6"/>
+    </g>
+    <g stroke="#7e878d" stroke-width="1.5">
+      <path d="M84 326v26M556 326v26M84 340h472M84 335l-9 10m481-10 9 10"/>
+      <path d="M64 304H38M64 132H38M51 304V132m-5 0 10 10m-10 162 10-10"/>
+      <path d="M84 112v-20M172 112v-20M260 112v-20M348 112v-20M436 112v-20M524 112v-20M556 112v-20M84 102h472"/>
+    </g>
+    <g fill="#111416" stroke="#AE4137" stroke-width="2"><circle cx="128" cy="218" r="8"/><circle cx="304" cy="218" r="8"/><circle cx="480" cy="218" r="8"/></g>
+  </g>
+  <g fill="#aab0b4" font-family="Arial, sans-serif" font-size="14">
+    <text x="280" y="370">5 × 6 000</text><text x="18" y="220" transform="rotate(-90 18 220)">8 400</text><text x="28" y="32" fill="#e8e5de" font-weight="700">ПРОДОЛЬНЫЙ ФАСАД · РЯДЫ КОЛОНН И СВЯЗИ</text>
+    <text x="76" y="388">1</text><text x="164" y="388">2</text><text x="252" y="388">3</text><text x="340" y="388">4</text><text x="428" y="388">5</text><text x="516" y="388">6</text><text x="534" y="408">КР-03</text>
+  </g>
+</svg>

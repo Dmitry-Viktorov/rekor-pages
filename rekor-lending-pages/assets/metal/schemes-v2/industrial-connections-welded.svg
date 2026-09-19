@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420">
+  <rect width="640" height="420" fill="#111416"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <g stroke="#e8e5de" stroke-width="4">
+      <path d="M72 288h496M244 82v206M396 82v206M244 124h152M244 204h152"/>
+      <path d="M244 124l-96 80h96M396 124l96 80h-96"/>
+      <path d="M244 204l-96 84m248-84 96 84"/>
+    </g>
+    <g stroke="#AE4137" stroke-width="3">
+      <path d="M236 116h168M236 196h168"/>
+      <path d="M236 116l-84 88h84m168-88 84 88h-84"/>
+      <path d="M244 124v80M396 124v80" stroke-dasharray="7 7"/>
+      <path d="M222 116l-16 12 16 12m196-24 16 12-16 12"/>
+    </g>
+    <g stroke="#7e878d" stroke-width="1.5">
+      <path d="M72 310v28M568 310v28M72 324h496M72 319l-8 9m496-9 8 9"/>
+      <path d="M220 82h-36M220 288h-36M198 82v206m-5-206 10 10m-10 196 10-10"/>
+      <path d="M152 204h-92v-34M488 204h92v-34"/>
+    </g>
+    <g fill="#AE4137" stroke="none"><circle cx="244" cy="124" r="5"/><circle cx="396" cy="124" r="5"/><circle cx="244" cy="204" r="5"/><circle cx="396" cy="204" r="5"/></g>
+  </g>
+  <g fill="#aab0b4" font-family="Arial, sans-serif" font-size="14">
+    <text x="268" y="370">СВАРНОЙ РАМНЫЙ УЗЕЛ</text><text x="28" y="32" fill="#e8e5de" font-weight="700">СОЕДИНЕНИЕ БАЛКИ И КОЛОННЫ · СВАРКА</text><text x="536" y="400">УЗ-04</text>
+    <text x="74" y="160">ШОВ ВКРУГ</text><text x="496" y="160">КАТЕТ 6</text>
+  </g>
+</svg>

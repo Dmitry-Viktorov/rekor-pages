@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420">
+  <rect width="640" height="420" fill="#111416"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <g stroke="#e8e5de" stroke-width="3">
+      <rect x="30" y="82" width="132" height="194"/><rect x="174" y="82" width="132" height="194"/><rect x="318" y="82" width="132" height="194"/><rect x="462" y="82" width="148" height="194"/>
+      <path d="M52 238V150h88v88M196 238V130h88v108M340 238V112h88v126M484 238V98h104v140"/>
+      <path d="M52 150h88M196 130h88M340 112h88M484 98h104"/>
+    </g>
+    <g stroke="#AE4137" stroke-width="3">
+      <path d="M52 238h88M196 238h88M340 238h88M484 238h104"/>
+      <path d="M52 150l44 88m0-88 44 88M196 130l44 108m0-108 44 108M340 112l44 126m0-126 44 126M484 98l52 140m0-140 52 140"/>
+      <path d="M52 150h88M196 130h88M340 112h88M484 98h104" stroke-width="6"/>
+      <path d="M164 172h10m132 0h10m132 0h10" stroke-width="4"/>
+    </g>
+    <g stroke="#7e878d" stroke-width="1.5">
+      <path d="M52 294h88M196 294h88M340 294h88M484 294h104"/>
+      <path d="M164 172h10M308 172h10M452 172h10"/>
+      <path d="M158 172l10 0-5-6M302 172l10 0-5-6M446 172l10 0-5-6"/>
+    </g>
+    <g fill="#111416" stroke="#AE4137" stroke-width="2"><circle cx="48" cy="108" r="13"/><circle cx="192" cy="108" r="13"/><circle cx="336" cy="108" r="13"/><circle cx="480" cy="108" r="13"/></g>
+  </g>
+  <g fill="#aab0b4" font-family="Arial, sans-serif" font-size="12">
+    <text x="44" y="112" fill="#e8e5de">01</text><text x="188" y="112" fill="#e8e5de">02</text><text x="332" y="112" fill="#e8e5de">03</text><text x="476" y="112" fill="#e8e5de">04</text>
+    <text x="56" y="64">К-1 · КОЛОННЫ</text><text x="194" y="64">Р-1 · РАМЫ</text><text x="338" y="64">С-1 · СВЯЗИ</text><text x="490" y="64">П-1 · ПРОГОНЫ</text>
+    <text x="48" y="326">Установка</text><text x="190" y="326">Выверка</text><text x="334" y="326">Фиксация</text><text x="478" y="326">Контроль</text>
+    <text x="28" y="374" fill="#e8e5de" font-weight="700">ОЧЕРЕДНОСТЬ СБОРКИ · ПОЗИЦИИ ЭЛЕМЕНТОВ</text><text x="536" y="402">МН-02</text>
+  </g>
+</svg>

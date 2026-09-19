@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420">
+  <rect width="640" height="420" fill="#111416"/>
+  <g fill="none" stroke-linejoin="round">
+    <path d="M108 336V78h82v258M190 126h324v76H190" stroke="#e8e5de" stroke-width="5"/>
+    <path d="M190 126l92 76h-92M190 202l92-76" stroke="#c64b40" stroke-width="4"/>
+    <rect x="172" y="112" width="38" height="106" stroke="#c64b40" stroke-width="3"/>
+    <g fill="#111416" stroke="#e8e5de" stroke-width="2"><circle cx="185" cy="134" r="7"/><circle cx="197" cy="160" r="7"/><circle cx="185" cy="190" r="7"/></g>
+    <g stroke="#7d858a" stroke-width="1.5"><path d="M282 202l70 74h104M282 126l72-58h102"/><path d="M108 354h82M108 346v16M190 346v16"/></g>
+  </g>
+  <g fill="#aab0b4" font-family="Arial" font-size="14"><text x="362" y="282">ФАСОНКА 12 мм</text><text x="362" y="62">БОЛТ М20</text><text x="116" y="382">420</text><text x="28" y="32" fill="#e8e5de" font-weight="700">УЗЕЛ КОЛОННА · БАЛКА</text><text x="536" y="400">МК-04</text></g>
+</svg>

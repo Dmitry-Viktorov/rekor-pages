@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-label="[Здесь нужно фото штукатурки в коммерческом помещении]">
+  <rect width="900" height="620" fill="#111"/>
+  <path d="M105 100h690v395H105z" fill="#252525" stroke="#f4ead8" stroke-width="10"/>
+  <path d="M230 100v395M450 100v395M670 100v395M105 270h690" stroke="#565656" stroke-width="7"/>
+  <path d="M160 425h580" stroke="#d6a05a" stroke-width="16" stroke-linecap="round"/>
+  <text x="450" y="552" text-anchor="middle" fill="#f4ead8" font-family="Arial, sans-serif" font-size="32" font-weight="700">[Здесь нужно фото штукатурки в коммерческом помещении]</text>
+</svg>
