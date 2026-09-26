@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420">
+  <rect width="640" height="420" fill="#111416"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <g stroke="#e8e5de" stroke-width="3">
+      <path d="M42 186h556M52 186V108h536v78M142 108v78M232 108v78M322 108v78M412 108v78M502 108v78"/>
+      <path d="M52 108h536M52 108l90 78 90-78 90 78 90-78 90 78 86-78"/>
+      <path d="M52 148h536" stroke="#737b80" stroke-width="2"/>
+      <path d="M54 292V236h206v56M54 236h206M122 236v56M190 236v56"/>
+      <path d="M336 236h98v56h-98zM462 236h98v56h-98z"/>
+    </g>
+    <g stroke="#AE4137" stroke-width="3">
+      <path d="M52 108l90 78m0-78 90 78m0-78 90 78m0-78 90 78m0-78 90 78m0-78 86 78"/>
+      <path d="M52 148h536" stroke-dasharray="9 8"/>
+      <path d="M54 264h206M336 264h98M462 264h98" stroke-dasharray="7 7"/>
+      <g fill="#111416"><circle cx="52" cy="202" r="11"/><circle cx="142" cy="202" r="11"/><circle cx="232" cy="202" r="11"/><circle cx="322" cy="202" r="11"/><circle cx="412" cy="202" r="11"/><circle cx="502" cy="202" r="11"/><circle cx="588" cy="202" r="11"/></g>
+    </g>
+    <g stroke="#7e878d" stroke-width="1.5">
+      <path d="M52 94V74M588 94V74M52 84h536"/><path d="M38 108H22M38 186H22M30 108v78"/>
+      <path d="M54 306v18M260 306v18M54 318h206M54 314l-8 8m206-8 8 8"/>
+      <path d="M52 208v14M142 208v14M232 208v14M322 208v14M412 208v14M502 208v14M588 208v14"/>
+    </g>
+  </g>
+  <g fill="#aab0b4" font-family="Arial, sans-serif" font-size="12">
+    <text x="52" y="68">РАЗМЕЩЕНИЕ ЭЛЕМЕНТОВ ПО ОСЯМ</text><text x="274" y="68">К-1 / Р-1 / С-1 / П-1</text>
+    <text x="48" y="210" fill="#e8e5de">1</text><text x="138" y="210" fill="#e8e5de">2</text><text x="228" y="210" fill="#e8e5de">3</text><text x="318" y="210" fill="#e8e5de">4</text><text x="408" y="210" fill="#e8e5de">5</text><text x="498" y="210" fill="#e8e5de">6</text><text x="584" y="210" fill="#e8e5de">7</text>
+    <text x="108" y="344">ПОПЕРЕЧНЫЙ РАЗРЕЗ</text><text x="348" y="224">ОЧЕРЕДЬ 01</text><text x="474" y="224">ОЧЕРЕДЬ 02</text>
+    <text x="28" y="382" fill="#e8e5de" font-weight="700">МОНТАЖНАЯ СХЕМА · МАРКИРОВКА ЭЛЕМЕНТОВ</text><text x="536" y="402">МН-01</text>
+  </g>
+</svg>

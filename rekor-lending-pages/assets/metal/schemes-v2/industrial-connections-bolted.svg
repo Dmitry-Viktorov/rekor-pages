@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420">
+  <rect width="640" height="420" fill="#111416"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <g stroke="#e8e5de" stroke-width="4">
+      <path d="M82 282h456M112 282V110h54M166 110h172M338 110v172M338 160h184M522 160v122"/>
+      <path d="M166 110l82 86h90M166 196h172M248 196l90-86"/>
+      <path d="M338 160l82 122M338 282l82-122"/>
+      <path d="M420 282h102"/>
+    </g>
+    <g stroke="#AE4137" stroke-width="3">
+      <path d="M166 110v86M166 196h172M248 196v-86"/>
+      <path d="M166 118l82 78m0-78-82 78M338 168l82 114m0-114-82 114"/>
+      <path d="M164 102h12v102h-12M330 152h16v138h-16"/>
+    </g>
+    <g fill="#111416" stroke="#AE4137" stroke-width="2">
+      <circle cx="176" cy="126" r="8"/><circle cx="176" cy="158" r="8"/><circle cx="176" cy="188" r="8"/>
+      <circle cx="342" cy="174" r="8"/><circle cx="342" cy="206" r="8"/><circle cx="342" cy="238" r="8"/><circle cx="342" cy="270" r="8"/>
+    </g>
+    <g stroke="#7e878d" stroke-width="1.5">
+      <path d="M112 304v28M522 304v28M112 318h410"/><path d="M112 314l-8 9m418-9 8 9"/>
+      <path d="M94 282H54M94 110H54M74 282V110m-5 0 10 10m-10 162 10-10"/>
+      <path d="M184 126h118l-20-18M350 174h132l-20-18"/>
+    </g>
+  </g>
+  <g fill="#aab0b4" font-family="Arial, sans-serif" font-size="14">
+    <text x="254" y="356">БОЛТОВОЕ СОЕДИНЕНИЕ</text><text x="22" y="32" fill="#e8e5de" font-weight="700">УЗЕЛ ФЕРМЫ · КОЛОННА И РАСКОС</text>
+    <text x="194" y="96">ФАСОНКА 10 мм</text><text x="462" y="150">БОЛТЫ М20</text><text x="536" y="400">УЗ-02</text>
+  </g>
+</svg>

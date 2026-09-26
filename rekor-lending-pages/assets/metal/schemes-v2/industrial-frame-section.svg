@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420">
+  <rect width="640" height="420" fill="#111416"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <g stroke="#e8e5de" stroke-width="4">
+      <path d="M84 304V166l236-72 236 72v138M84 304h472M84 244h472"/>
+      <path d="M84 166l236 78 236-78M320 94v210"/>
+      <path d="M84 166l59 20 59-18 59 20 59-22 59 22 59-20 59 18 59-20"/>
+    </g>
+    <g stroke="#AE4137" stroke-width="3">
+      <path d="M84 166l59 138m0-138L84 304M202 166l59 138m0-138-59 138M438 166l59 138m0-138-59 138M556 166l-59 138"/>
+      <path d="M84 244h472" stroke-dasharray="10 9"/>
+      <path d="M320 94v210" stroke-dasharray="7 7"/>
+    </g>
+    <g stroke="#7e878d" stroke-width="1.5">
+      <path d="M84 326v28M556 326v28M84 340h472M84 335l-9 10m481-10 9 10"/>
+      <path d="M64 304H38M64 94H38M51 304V94m-5 0 10 10m-10 200 10-10"/>
+      <path d="M84 76v-16M320 76v-16M556 76v-16M84 66h472"/>
+    </g>
+  </g>
+  <g fill="#aab0b4" font-family="Arial, sans-serif" font-size="14">
+    <text x="278" y="370">16 500</text><text x="18" y="220" transform="rotate(-90 18 220)">8 400</text><text x="292" y="52">8 250 + 8 250</text>
+    <text x="28" y="32" fill="#e8e5de" font-weight="700">РАЗРЕЗ ПО ОСИ · ПРОЛЁТЫ И ФЕРМЫ</text>
+    <text x="80" y="388">А</text><text x="312" y="388">Б</text><text x="548" y="388">В</text><text x="534" y="408">КР-02</text>
+  </g>
+</svg>

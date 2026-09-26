@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420">
+  <rect width="640" height="420" fill="#111416"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <g stroke="#e8e5de" stroke-width="3">
+      <rect x="38" y="62" width="274" height="130"/><rect x="328" y="62" width="274" height="130"/>
+      <path d="M68 164V94h214M68 94l58 70 58-70 58 70M68 126h214"/>
+      <path d="M358 164V94h214M358 94l52 70 52-70 52 70 52-70"/>
+      <path d="M70 164h212M358 164h214"/>
+      <path d="M54 302V230h188v72M386 302V230h188v72"/>
+    </g>
+    <g stroke="#AE4137" stroke-width="3">
+      <path d="M68 94h214M358 94h214"/>
+      <path d="M68 164l58-70m0 70 58-70m0 70 58-70M358 164l52-70m0 70 52-70m0 70 52-70m0 70 52-70"/>
+      <path d="M112 230v72m88-72v72M428 230v72m88-72v72"/>
+      <circle cx="112" cy="116" r="7"/><circle cx="200" cy="116" r="7"/><circle cx="428" cy="116" r="7"/><circle cx="516" cy="116" r="7"/>
+      <path d="M70 266h188M386 266h188" stroke-dasharray="8 7"/>
+    </g>
+    <g stroke="#7e878d" stroke-width="1.5">
+      <path d="M68 48v-16M282 48v-16M68 40h214M358 48v-16M572 48v-16M358 40h214"/>
+      <path d="M70 320v20M258 320v20M70 330h188M386 320v20M574 320v20M386 330h188"/>
+      <path d="M320 212v142" stroke-dasharray="5 7"/>
+    </g>
+  </g>
+  <g fill="#aab0b4" font-family="Arial, sans-serif" font-size="13">
+    <text x="128" y="28">УЗЕЛ ФЕРМЫ · БОЛТЫ</text><text x="410" y="28">УЗЕЛ РАСКОСА · ФАСОНКА</text>
+    <text x="108" y="362">БАЛКА · КОЛОННА</text><text x="424" y="362">ОПОРНАЯ ПЛАСТИНА</text>
+    <text x="28" y="400" fill="#e8e5de" font-weight="700">УЗЛЫ И СОЕДИНЕНИЯ · СХЕМА КОМПОНОВКИ</text><text x="536" y="400">УЗ-01</text>
+  </g>
+</svg>

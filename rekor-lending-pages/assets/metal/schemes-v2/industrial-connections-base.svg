@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420">
+  <rect width="640" height="420" fill="#111416"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <g stroke="#e8e5de" stroke-width="4">
+      <path d="M244 300V92h112v208M188 300h224M154 324h312M178 346h268"/>
+      <path d="M244 92h112M224 300h152"/>
+      <path d="M244 148h112M244 212h112" stroke="#737b80" stroke-width="2"/>
+    </g>
+    <g stroke="#AE4137" stroke-width="3">
+      <path d="M224 300v-28h152v28M188 300v24M412 300v24"/>
+      <path d="M224 272l20 28m132-28-20 28"/>
+      <circle cx="246" cy="286" r="8"/><circle cx="354" cy="286" r="8"/><circle cx="246" cy="312" r="8"/><circle cx="354" cy="312" r="8"/>
+      <path d="M192 324h256" stroke-dasharray="7 7"/>
+    </g>
+    <g stroke="#7e878d" stroke-width="1.5">
+      <path d="M244 72V46M356 72V46M244 58h112"/><path d="M154 364v22M466 364v22M154 378h312"/>
+      <path d="M142 300H102M142 92H102M122 300V92m-5 0 10 10m-10 198 10-10"/>
+      <path d="M400 286l74-42h84M400 312l74 42h84"/>
+    </g>
+  </g>
+  <g fill="#aab0b4" font-family="Arial, sans-serif" font-size="14">
+    <text x="270" y="36">БАЗА КОЛОННЫ</text><text x="226" y="408">ОПОРНАЯ ПЛИТА 16 мм</text><text x="18" y="208" transform="rotate(-90 18 208)">8 400</text>
+    <text x="28" y="32" fill="#e8e5de" font-weight="700">ОПОРНЫЙ УЗЕЛ · АНКЕРНЫЕ БОЛТЫ</text><text x="536" y="400">УЗ-03</text>
+  </g>
+</svg>

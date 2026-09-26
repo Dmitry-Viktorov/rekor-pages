@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420">
+  <rect width="640" height="420" fill="#111416"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="78" y="78" width="484" height="238" stroke="#e8e5de" stroke-width="4"/>
+    <g stroke="#737b80" stroke-width="2">
+      <path d="M158 78v238M238 78v238M318 78v238M398 78v238M478 78v238"/>
+      <path d="M78 157h484M78 236h484"/>
+    </g>
+    <g stroke="#AE4137" stroke-width="3">
+      <path d="M78 78l80 79-80 79M238 78l80 79-80 79M398 78l80 79-80 79M562 78l-84 79 84 79"/>
+      <path d="M78 157h484M318 78v238" stroke-dasharray="11 9"/>
+      <g fill="#c64b40" stroke="none"><circle cx="78" cy="78" r="5"/><circle cx="562" cy="78" r="5"/><circle cx="78" cy="316" r="5"/><circle cx="562" cy="316" r="5"/></g>
+    </g>
+    <g stroke="#7e878d" stroke-width="1.5">
+      <path d="M78 62V42M562 62V42M78 52h484"/><path d="M62 78H38M62 316H38M50 78v238"/>
+      <path d="M78 334v24M158 334v24M238 334v24M318 334v24M398 334v24M478 334v24M562 334v24"/>
+    </g>
+  </g>
+  <g fill="#aab0b4" font-family="Arial, sans-serif" font-size="14">
+    <text x="286" y="40">30 000</text><text x="18" y="220" transform="rotate(-90 18 220)">18 000</text>
+    <text x="28" y="32" fill="#e8e5de" font-weight="700">ПЛАН КРОВЛИ · ОСИ И ПРОСТРАНСТВЕННЫЕ СВЯЗИ</text>
+    <text x="74" y="382">1</text><text x="154" y="382">2</text><text x="234" y="382">3</text><text x="314" y="382">4</text><text x="394" y="382">5</text><text x="474" y="382">6</text><text x="538" y="408">КР-04</text>
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420">
+  <rect width="640" height="420" fill="#111416"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="72" y="76" width="496" height="230" stroke="#e8e5de" stroke-width="3"/>
+    <g stroke="#737b80" stroke-width="2"><path d="M154 76v230M236 76v230M318 76v230M400 76v230M482 76v230"/><path d="M72 191h496"/></g>
+    <g stroke="#AE4137" stroke-width="3">
+      <path d="M72 76l82 115-82 115M236 76l82 115-82 115M400 76l82 115-82 115M568 76l-86 115 86 115"/>
+      <path d="M72 191h496" stroke-dasharray="10 9"/>
+      <path d="M92 96h456M92 286h456" stroke-width="5"/>
+      <path d="M104 110h70M186 110h70M268 110h70M350 110h70M432 110h70" stroke-width="2"/>
+      <g fill="#111416"><circle cx="72" cy="76" r="10"/><circle cx="236" cy="76" r="10"/><circle cx="400" cy="76" r="10"/><circle cx="568" cy="76" r="10"/></g>
+    </g>
+    <g stroke="#7e878d" stroke-width="1.5">
+      <path d="M72 58V38M568 58V38M72 48h496"/><path d="M56 76H30M56 306H30M43 76v230"/>
+      <path d="M72 324v22M154 324v22M236 324v22M318 324v22M400 324v22M482 324v22M568 324v22"/>
+      <path d="M590 118v148M590 118l-8 12m8-12 8 12M590 266l-8-12m8 12 8-12"/>
+    </g>
+  </g>
+  <g fill="#aab0b4" font-family="Arial, sans-serif" font-size="12">
+    <text x="274" y="34">П-1 · ПРОГОНЫ / С-1 · СВЯЗИ</text><text x="16" y="220" transform="rotate(-90 16 220)">18 000</text><text x="596" y="194" transform="rotate(90 596 194)">ДИАГОНАЛЬ</text>
+    <text x="28" y="374" fill="#e8e5de" font-weight="700">ПЛАН МОНТАЖА · ОТМЕТКИ И КОНТРОЛЬ ДИАГОНАЛЕЙ</text><text x="536" y="402">МН-04</text>
+    <text x="68" y="370">1</text><text x="150" y="370">2</text><text x="232" y="370">3</text><text x="314" y="370">4</text><text x="396" y="370">5</text><text x="478" y="370">6</text><text x="564" y="370">7</text>
+  </g>
+</svg>
