@@ -3,46 +3,47 @@
   "sites": [
     {
       "slug": "rekor-lending-pages",
+      "aggregatePath": "rekor-lending-pages",
       "title": "РЕКОР Согласованные лендинги",
       "description": "Единый проект для согласованных лендингов в стиле, утверждённом заказчиком.",
       "url": "/rekor-pages/rekor-lending-pages/",
-      "type": "vite",
+      "type": "astro",
       "role": "development",
       "status": "active",
       "pages": [
         {
           "title": "РЕКОР Строительно-отделочные работы",
-          "description": "Строительно-отделочные работы по дизайн-проекту для квартир, домов, офисов и коммерческих помещений. Расчёт после осмотра объекта.",
+          "description": "Квартиры, офисы, рестораны и коммерческие помещения",
           "url": "/rekor-pages/rekor-lending-pages/otdelochnye-raboty/",
-          "path": "otdelochnye-raboty/",
+          "path": "/otdelochnye-raboty/",
           "role": "development"
         },
         {
           "title": "РЕКОР Промышленные металлоконструкции",
-          "description": "Проектируем, изготавливаем и монтируем металлоконструкции для складов, ангаров и производственных объектов по Рязанской области и ЦФО. Расчёт по размерам или чертежам.",
+          "description": "Склады, ангары, производственные и коммерческие каркасные объекты",
           "url": "/rekor-pages/rekor-lending-pages/industrial-metal-structures/",
-          "path": "industrial-metal-structures/",
+          "path": "/industrial-metal-structures/",
           "role": "development"
         },
         {
           "title": "РЕКОР Механизированная штукатурка",
-          "description": "Механизированная штукатурка стен: замер, подготовка, маяки, машинное нанесение и выравнивание. Расчёт по площади стен, слою и требуемой геометрии.",
+          "description": "Замер, подготовка, нанесение и выравнивание стен и потолков",
           "url": "/rekor-pages/rekor-lending-pages/mehanizirovannaya-shtukaturka/",
-          "path": "mehanizirovannaya-shtukaturka/",
+          "path": "/mehanizirovannaya-shtukaturka/",
           "role": "development"
         },
         {
           "title": "РЕКОР Демонтаж конструкций по Рязанской области и ЦФО",
-          "description": "Полный и частичный демонтаж зданий и строительных конструкций. Осмотр объекта, выбор способа и расчёт согласованного состава работ.",
+          "description": "Полный и частичный демонтаж по Рязанской области и ЦФО",
           "url": "/rekor-pages/rekor-lending-pages/demontazhnye-raboty/",
-          "path": "demontazhnye-raboty/",
+          "path": "/demontazhnye-raboty/",
           "role": "development"
         },
         {
           "title": "РЕКОР Строительно-монтажные работы",
-          "description": "Выполняем строительно-монтажные работы по Рязанской области и ЦФО. Монтаж конструкций, строительных элементов и согласованных инженерных систем. Предварительный расчёт по проекту, чертежам или исходным данным.",
+          "description": "Монтаж конструкций, элементов здания и согласованных инженерных систем",
           "url": "/rekor-pages/rekor-lending-pages/construction-and-installation-works/",
-          "path": "construction-and-installation-works/",
+          "path": "/construction-and-installation-works/",
           "role": "development"
         }
       ]
